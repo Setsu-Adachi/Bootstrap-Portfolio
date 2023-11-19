@@ -1,8 +1,9 @@
 # Bootstrap-Portfolio
-This is a responsive portfolio website using Bootstrap that showcases my work and skills. Bootstrap is a front-end framework that makes it easy to create a visually appealing website.
+This is a  portfolio website using Bootstrap that showcases my work and skills. Using Bootstrap front-end framework, I have built a  visually appealing responsive website. https://setsu-adachi.github.io/bootstrap-portfolio/
+![Bootstrap portfolio screentshot](./images/setsuadachi-bootstrap-portfolio-screentshot.png)
+
 
 ## Table of contents
-
 - Requirements
 - Installation
 - Configuration
@@ -11,11 +12,10 @@ This is a responsive portfolio website using Bootstrap that showcases my work an
 - Contributing
 
 
-
 ## Requirements
-![image Alt Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
+![Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
 https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg
-
+![Bootstrap logo](./images/bootstrap-logo.svg)
 https://getbootstrap.com/
 
 ## Installation
