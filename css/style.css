@@ -76,3 +76,10 @@ header.masthead {
 .cardContainer{
   background-color: blanchedalmond;
 }
+a:hover {
+  background-color: rgb(255, 221, 0);
+}
+
+.cardContainer {
+  transition: box-shadow .3s;
+}
