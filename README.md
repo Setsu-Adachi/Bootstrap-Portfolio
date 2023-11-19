@@ -19,10 +19,10 @@ This is a responsive portfolio website using Bootstrap that showcases my work an
 
 ## Installation
 Clone the repo
-git clone https://github.com/Setsu-Adachi/Challenges-M3-14-11-2023
+git clone https://github.com/Setsu-Adachi/bootstrap-portfolio
 
 ## Configuration
-https://setsu-adachi.github.io/Challenges-M3-14-11-2023/
+https://setsu-adachi.github.io/bootstrap-portfolio
 
 ## Acknowledgement
 This project uses [Bootstrap](https://getbootstrap.com/) to create a responsive portfolio website.

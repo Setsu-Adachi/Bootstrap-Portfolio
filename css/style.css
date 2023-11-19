@@ -29,25 +29,50 @@ header.masthead {
     border-radius: 3px;
   }
   
-  section.download {
-    position: relative;
-    padding: 150px 0;
+
+/* Jumvorton copy */
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
   }
-  
-  section.download h2 {
-    font-size: 50px;
-    margin-top: 0;
-  }
-  
-  section.download .badges .badge-link {
-    margin-bottom: 25px;
-  }
-  
-  section.download .badges .badge-link:last-child {
-    margin-bottom: 0;
-  }
-  
-  section.download .badges .badge-link img {
-    height: 60px;
-  }
-  
+
+  .background {
+    height: calc(100vh - 25px);
+    background-image: url(../images/IMG_6241-background.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup-section {
+  padding: 10rem 0;
+    url('../images/IMG_6431-background.JPG');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.sectionHeading {
+  color: rgb(92, 85, 92);
+  position: center;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.breadcrumb {
+  color: rgb(92, 85, 92);
+  position: center;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.cardContainerskills{
+  background-color: blanchedalmond;
+}
+.cardContainer{
+  background-color: blanchedalmond;
+}
