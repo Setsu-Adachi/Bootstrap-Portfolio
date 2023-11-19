@@ -13,8 +13,8 @@ This is a responsive portfolio website using Bootstrap that showcases my work an
 
 
 ## Requirements
-![image Alt Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)](https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg)
-![ image alt ]
+![image Alt "Css HTML logos"](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)(https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg)
+![ image Alt "Bootstrap logo" ]
 (https://getbootstrap.com/)
 
 ## Installation
