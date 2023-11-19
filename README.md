@@ -23,7 +23,7 @@ Clone the repo
 git clone https://github.com/Setsu-Adachi/bootstrap-portfolio
 
 ## Configuration
-https://setsu-adachi.github.io/bootstrap-portfolio
+https://setsu-adachi.github.io/bootstrap-portfolio/
 
 ## Acknowledgement
 This project uses [Bootstrap](https://getbootstrap.com/) to create a responsive portfolio website.
