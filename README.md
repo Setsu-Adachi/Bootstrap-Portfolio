@@ -13,10 +13,9 @@ This is a  portfolio website using Bootstrap that showcases my work and skills. 
 
 
 ## Requirements
-![Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
-https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg
-![Bootstrap logo](./images/bootstrap-logo.svg)
-https://getbootstrap.com/
+HTML
+CSS
+[Bootstrap](https://getbootstrap.com)
 
 ## Installation
 Clone the repo
